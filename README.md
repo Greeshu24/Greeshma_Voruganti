@@ -88,9 +88,16 @@ Tech Stack: **Java Full Stack (Java, HTML, CSS, JavaScript, SQL)**
 
 ### 📊 GitHub Stats
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Greeshu24&show_icons=true&locale=en&layout=compact" alt="top languages"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Greeshu24&show_icons=true&locale=en" alt="github stats"/>
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Greeshu24&show_icons=true&theme=tokyonight"/>
+</p>
+
+## 💻 Top Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greeshu24&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
